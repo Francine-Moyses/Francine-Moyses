@@ -17,7 +17,9 @@
   <img align="center" alt="Fran-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Fran-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="right" alt="Fran-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/65/81/b0/6581b0f2eb5b3f635240d1a88d92c75f.jpg">
-</div>
+
+  
+ </div>
   
   ##
  
