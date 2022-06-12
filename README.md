@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Francine Moysés 👋
 
-- 🔭 Hoje trabalho com Desenvolvimento de ferramentas em Python, criação de Dashboard e aplicativos em PowerApps
+- 🔭 Hoje trabalho com Desenvolvimento de ferramentas em Python, criação de Dashboard e aplicativos
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 😄 Pronomes: ela/dela
 
