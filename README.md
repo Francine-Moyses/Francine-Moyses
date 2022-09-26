@@ -19,8 +19,10 @@
   <img align="center" alt="Fran-Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="Fran-SQL" height="30" width="40" src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png">
   <img align="right" alt="Fran-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/65/81/b0/6581b0f2eb5b3f635240d1a88d92c75f.jpg">
-
-  
+  <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fran-Python" height="30" width="40" src="https://user-images.githubusercontent.com/79495727/160216737-0dd4e3f6-3aff-4571-b5ec-b288c5eae0c9.png">
+      <img align="center" alt="Fran-Python" height="30" width="40" src="https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png">
  </div>
   
   ##
