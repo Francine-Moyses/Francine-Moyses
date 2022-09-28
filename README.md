@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com Desenvolvimento de ferramentas em Python, criação de Dashboard e aplicativos
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/Francine-Moyses">
