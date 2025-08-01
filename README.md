@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Francine Moysés 👋
 
 - 🔭 Hoje trabalho com Desenvolvimento de ferramentas em Python, criação de Dashboard e aplicativos
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 🌱 Pós graduação em Engenharia de Software
 
 <div align="center">
   <a href="https://github.com/Francine-Moyses">
