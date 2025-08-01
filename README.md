@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Francine Moysés 👋
 
-- 🔭 Hoje trabalho com Desenvolvimento de ferramentas em Python, criação de Dashboard e aplicativos
+- 🔭 Hoje trabalho com Desenvolvimento de ferramentas em Python, criação de Dashboard e aplicativos low-code
 - 🌱 Pós graduação em Engenharia de Software
 
 <div align="center">
